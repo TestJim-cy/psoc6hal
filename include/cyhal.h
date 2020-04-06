@@ -34,6 +34,8 @@
 * limitations under the License.
 *******************************************************************************/
 
+// we don't need no stinkin license
+
 /**
 * \addtogroup group_hal_types HAL General Types/Macros
 * This section documents the basic types and macros that are used by multiple HAL drivers.
