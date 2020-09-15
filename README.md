@@ -47,7 +47,7 @@ The HAL driver headers provide macros corresponding to codes for common error si
 For more details on interacting with `cy_rslt_t` see [Result Type](docs/html/group__group__result.html).
 
 ## More information
-* [API Reference Guide](https://cypresssemiconductorco.github.io/psoc6hal/html/modules.html)
+* [API Reference Guide](https://testjim-cy.github.io/psoc6hal/html/modules.html)
 * [Cypress Semiconductor](http://www.cypress.com)
 * [Cypress Semiconductor GitHub](https://github.com/cypresssemiconductorco)
 * [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
