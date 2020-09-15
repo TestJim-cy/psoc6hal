@@ -2,6 +2,8 @@
 
 ## Overview
 
+spurious change to test rename clone
+
 The Cypress Hardware Abstraction Layer (HAL) provides a high-level interface to configure and use hardware blocks on Cypress MCUs. It is a generic interface that can be used across multiple product families. The focus on ease-of-use and portability means the HAL does not expose all of the low-level peripheral functionality. The HAL can be combined with platform-specific libraries (such as the PSoC 6 Peripheral Driver Library (PDL)) within a single application. You can leverage the HAL's simpler and more generic interface for most of an application, even if one portion requires finer-grained control.
 
 To use code from the HAL, the specific driver header file can be included or the top level `cyhal.h` header can be include to allow access to any driver.
